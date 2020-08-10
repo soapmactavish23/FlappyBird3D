@@ -6,6 +6,9 @@ Flappy Bird 3D, é uma adaptação do famoso game Flappy Bird para dispositivos 
 ## Video Demonstrativo:
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/N68p-TxVOEM)
 
+## Download
+[Game] (https://drive.google.com/file/d/1hkUTyl9dbwBS9_g-2YyWyY-I2tN7BVco/view?usp=sharing)
+
 ## Plataforma Adotada: 
   - PC
 
